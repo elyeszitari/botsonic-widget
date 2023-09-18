@@ -3,7 +3,6 @@
 === Botsonic Widget for Wordpress ===
 
 (Botsonic Widget): A free WordPress plugin to integrate the Botsonic Chatbot into your WordPress site.
-Website: [https://www.zitari.com](https://www.zitari.com).
 
 == Description ==
 
